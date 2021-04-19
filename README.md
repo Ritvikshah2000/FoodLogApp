@@ -9,11 +9,12 @@ This repository contains two main sections:
   Video Demonstrating functionality of application
 
 ## Requirements & Design Documents:
-1. App Mockup - This provides a visualization of what they application prototype would look like. It shows all the pages with its contents.
-2. BRS - The Business Requirements Specification document show's the fictious organization's need for the application.
-3. STRS - The Stakeholders requiremnts specification document describes the activites various users must be able to perform.
-4. SRS - The Software requirements specification document describes what the software will do and how it is expected to perform.
-5. SyRS - The system requirements specification document describes the requirements of the larger system.
+1. Preliminary Design - Provides the architectural design and UML class diagram for the application to be developed.
+2. App Mockup - This provides a visualization of what they application prototype would look like. It shows all the pages with its contents.
+3. BRS - The Business Requirements Specification document show's the fictious organization's need for the application.
+4. STRS - The Stakeholders requiremnts specification document describes the activites various users must be able to perform.
+5. SRS - The Software requirements specification document describes what the software will do and how it is expected to perform.
+6. SyRS - The system requirements specification document describes the requirements of the larger system.
 
 ## Demonstrated Application Features
 1. The ability to create user accounts and log in to a user account
@@ -26,3 +27,11 @@ This repository contains two main sections:
 ## Running & Viewing Application
 The repository includes an apk file that can be loaded onto an android 8.0+ phone and used.
 The repository also includes a video demonstrating the functionality of the prototype
+
+## Collaborators
+This project was in collaboration with the following Simon Fraser University Students:
+Ritvik Shah
+Kenrick Lam
+Steven Tran
+Lora Koo
+
