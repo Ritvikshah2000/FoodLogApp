@@ -8,13 +8,17 @@ This repository contains two main sections:
   The android application code
   Video Demonstrating functionality of application
 
-## Requirements & Design Documents:
+## Design Documents:
 1. Preliminary Design - Provides the architectural design and UML class diagram for the application to be developed.
 2. App Mockup - This provides a visualization of what they application prototype would look like. It shows all the pages with its contents.
-3. BRS - The Business Requirements Specification document show's the fictious organization's need for the application.
-4. STRS - The Stakeholders requiremnts specification document describes the activites various users must be able to perform.
-5. SRS - The Software requirements specification document describes what the software will do and how it is expected to perform.
-6. SyRS - The system requirements specification document describes the requirements of the larger system.
+3. Use Case Diagram - Shows how the user interacts with the system that shows the relationship between different use cases in which the user is involved.
+
+## Requirements Documents
+1. BRS - The Business Requirements Specification document show's the fictious organization's need for the application.
+2. STRS - The Stakeholders requiremnts specification document describes the activites various users must be able to perform.
+3. SRS - The Software requirements specification document describes what the software will do and how it is expected to perform.
+4. SyRS - The system requirements specification document describes the requirements of the larger system.
+5. PPA - Post Performance Analysis helps developers understand their development practices and how to work on the next iteration.
 
 ## Demonstrated Application Features
 1. The ability to create user accounts and log in to a user account
