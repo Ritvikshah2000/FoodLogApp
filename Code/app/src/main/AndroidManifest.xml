@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sfu.foodlogger">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="ANDROID.PERMISSION.CAMERA" />
     <uses-feature android:name="android.hardware.camera" android:required="true" />
     <uses-permission android:name="ANDROID.PERMISSION.READ_EXTERNAL_STORAGE" />
